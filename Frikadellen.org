@@ -1,0 +1,33 @@
+* Zutaten
+  + 500 - 1000g Rinderhackfleisch (RH)
+  + 1 Ei (500g-1000g RH) / 2 Ei (1000g+ RH)
+  + Gewürze:
+    - Salz
+    - Pfeffer
+    - Chilli
+    - Senf
+    - Maggi
+    - Petersillie
+  + 2-4 Zwiebeln
+  + Öl
+  + geweichtes Brötchen / Haferflocken (1 - 2 Esslöffel)
+
+* Zubereitung
+
+** Zwiebeln dünsten
+   - [ ] Schneiden
+   - [ ] Öl in die Pfanne
+   - [ ] niedrige Temperatur
+
+** Rinderhack mischen
+   - [ ] Ei hinzufügen
+   - [ ] Gewürze hinzufügen
+   - [ ] Brötchen oder Haferflocken hinzufügen
+     - [ ] Wasser aus Brötchen ausdrücken
+   - [ ] gedünstete Zwiebeln hinzufügen - Zwiebeln kalt werden lassen
+     
+** Frikadellen formen
+
+** Frikadellen braten
+   - [ ] Beidseitig scharf anbraten
+   - [ ] Temperatur runter regeln und durchbraten
