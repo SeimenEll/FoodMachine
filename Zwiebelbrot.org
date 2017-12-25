@@ -1,0 +1,32 @@
+* Zutaten
+  - [[https://www.amazon.de/Aurora-Bauernkruste-Backmischung-6x500g/dp/B0058C6N9C][Backmischung]]
+  - Mehl
+  - Wasser
+  - Zwiebeln (3)
+  - Schinkenwürfel (1-2)
+  - Öl
+
+* Zubereitung
+
+** Schinken-Zwiebel Mischung
+   - Zwiebeln mit wenig Öl in der Pfanne scharf anbraten.
+   - Schinkenwürfel hinzugeben und auf mittelhoher Temperatur schmoren lassen.
+   - Mischung abkühlen lassen (min. lauwarm).
+  
+** Teig
+   - Backmischung und lauwarmes Wasser zu einer Masse kneten.
+   - Teig 30 Minuten gehen lassen, bzw. so lange bis doppelte Größe.
+   - Teig auf mehliger Unterlage ausbreiten.
+   - Schinken-Zwiebel Mischung in Teig verkneten.
+   - Brot formen und 30-60 Minuten gehen lassen.
+   - Oberfläche mit Wasser bestreichen.
+   - Oberfläche längs einschneiden.
+
+** Backen
+   - Backofen auf 215°C vorheizen (Ober- und Unterhize)
+   - Gefäß mit Wasser in Backofen stellen.
+   - Brot für ~50 Minuten backen.
+
+* Bild
+
+[[./images/Zwiebelbrot.jpg]]
